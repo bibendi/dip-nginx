@@ -1,0 +1,9 @@
+# Ignore IDEs
+/.idea
+/.direnv
+.envrc
+.DS_Store
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
